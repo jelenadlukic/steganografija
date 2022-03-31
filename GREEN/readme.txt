@@ -1,0 +1,8 @@
+-Otvoriti index.html pomoću web pretraživača
+-U polje "Enter yout secret message" upisati poruku 
+-Klikom na dugme "Choose File" otvara se mogućnost za odabir slike u kojoj će tajna poruka biti sakrivena
+-Nakon uspešnog odabire slike takozvani stego objekat biće prikazan na ekranu
+-Desnim tasterom miša kliknuti na stego objekat i pronaći opciju "Save image as.."
+-Sačuvati sliku sa .PNG ekstenzijom
+-Za dekodiranje poruke iz stego objekta potrebno ga je učitati pomoću drugog inputa na kome piše "Choose File"
+-Nakon uspešnog učitavanja stego objekta tajna poruka biće prikazana na dnu ekrana

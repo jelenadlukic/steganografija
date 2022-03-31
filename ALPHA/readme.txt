@@ -1,0 +1,8 @@
+-Otvoriti index.html uz pomoć web pretraživača
+-Klikom na dugme "Choose File" izabrati željenu sliku
+-Nakon odabira slika će se pojaviti u prozoru "Source Image"
+-U polje upisati tajnu poruku
+-Klikom na dugme "Hide Message Into Image" takozvani stego objekat biće prikazan u prozoru "Message Encoded Image"
+-Desnim tasterom miša kliknuti na sliku iz prozora "Message Encoded Image" i pronaći opciju "Save image as.."
+-Sačuvati sliku sa .PNG ekstenzijom
+-Za dešifrovanje tajne poruke potrebno je učitavanje slike pomoću inputa sa crnom pozadinom i skrivena poruka će automatski biti prikazana
